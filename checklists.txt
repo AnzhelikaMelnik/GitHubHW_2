@@ -1,0 +1,8 @@
+CheckLists:
+- №;
+- Title;
+- Inputs;
+-Steps;
+_Expected Result;
+-Actual Result;
+-Comment.
