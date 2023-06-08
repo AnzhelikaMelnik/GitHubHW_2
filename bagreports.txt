@@ -1,0 +1,11 @@
+Structure bag reports:
+- ID;
+- Severity;
+- Environment;
+- Title;
+- Steps;
+- Expected Result;
+- Actual Result;
+- Link;
+- License;
+- Comment
